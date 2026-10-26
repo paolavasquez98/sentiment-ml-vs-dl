@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local downloads and notebook checkpoints
+.cache/
+.ipynb_checkpoints/
+/results
